@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "eidas",
+        "types": [ "login" ]
+    }]
+}
